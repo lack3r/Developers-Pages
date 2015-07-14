@@ -13,4 +13,4 @@ https://get.fabric.io/mopub - Maximize your mobile ad revenue.
 https://get.fabric.io/crashlytics - Introducing the most powerful, yet lightest weight crash reporting solution. 
 https://gnip.com/ - The World’s Largest and Most Trusted Provider of Social Data
 
-<b>flickr</b> http://code.flickr.net/
+<b>Flickr</b>: http://code.flickr.net/
