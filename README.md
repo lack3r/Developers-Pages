@@ -1,5 +1,5 @@
 # Developers-Pages
-This provides a list with developers pages provided my major teck companies to help you started
+This provides a list with developers pages provided my major tech companies to help you started
 
 <b>Google</b>: https://developers.google.com/
 
